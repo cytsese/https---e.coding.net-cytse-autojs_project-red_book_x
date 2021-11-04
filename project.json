@@ -1,0 +1,34 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "288D85FC-5",
+    "build_number": 5,
+    "build_time": 1635939121043,
+    "release": false
+  },
+  "encryptLevel": 3,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": false,
+    "splashText": "Powered by X",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "微信工具人",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.nb.weixin.X",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "scripts": {},
+  "versionCode": 100,
+  "versionName": "Release 1.0.0"
+}

@@ -1,0 +1,35 @@
+{
+    "project": {
+        "name": "微信工具人",
+        "src": "https://cytse.coding.net/p/autojs_project/d/wechat_x/git/archive/master/?download=true",
+        "net_src": "https://cytse.coding.net/p/autojs_project/d/wechat_x/git/raw/master/data/temp/net_code.js?download=true",
+        "ocr_plugin": "https://cytse.coding.net/s/09e57cbb-3171-4709-9352-f9f7a2cad4d9",
+        "version": "Release 1.0.0",
+        "log_to": "/sdcard/Download/log.txt"
+    },
+    "ui": {
+        "Text": {
+            "team1": "test1",
+            "team2": "test2",
+            "msg1": "msg1",
+            "msg2": "msg2",
+            "msg3": "msg3",
+            "min_money": "0.01",
+            "no_money_wait_time": "16",
+            "money_wait_time": "5"
+        },
+        "checked": {}
+    },
+    "user": {
+        "teams": {
+            "team1": "test1",
+            "team2": "test2"
+        },
+        "msg1": "msg1",
+        "msg2": "msg2",
+        "msg3": "msg3",
+        "min_money": "0.01",
+        "no_money_wait_time": "16",
+        "money_wait_time": "5"
+    }
+}
